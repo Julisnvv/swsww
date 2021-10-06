@@ -1,0 +1,70 @@
+body{
+ 	 	font-family: courier , monospace;
+ }
+
+ .container_nachalo{
+	background: url(img/sw9.jpg) center no-repeat;
+ 	width: 100%;
+height: 1000px;  
+ -webkit-background-size:cover ;
+background-size:cover;
+display: flex;
+flex-direction: column;
+justify-content: end;
+align-items: center;
+}
+
+.title {
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    text-decoration: none;
+    font-family: courier , monospace;
+height: 15em;
+    position: relative;
+}
+
+
+.container{
+    color: white;
+    background-color: #5B7040;
+font-size: 24px;
+text-align: center;
+}
+
+.tit{
+    color: lightgrey;
+}
+.tit2{
+    color: lightgrey;
+}
+.tit3{
+    color: lightgrey;
+}
+.tit4{
+    color: lightgrey;
+}
+.tit5{
+    color: lightgrey;
+}
+
+
+.container2{
+   background: url(img/sw8.jpg) center no-repeat;
+    font-family:courier , monospace ;
+    width: 100%;
+height: 1000px;  
+ -webkit-background-size:cover ;
+background-size:cover;
+display: flex;
+flex-direction: column;
+justify-content: end;
+align-items: center;
+}
+
+.container3{
+    color: white;
+    background-color: #5B7040;
+font-size: 24px;
+text-align: center;
+}
